@@ -11,6 +11,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 #### Reactor General Resources
 - Documentation: https://docs.reactor.gg/
 - Formatting of TextRenderer Text: https://wiki.weewoo.net/wiki/Text
+- Game Options Wrapper: https://github.com/DorCoMaNdO/Reactor-Essentials
 
 #### Tutorials
 - Making a Mod with Reactor: https://gist.github.com/apollyon600/17521f0978d164bdeb3902afabaf89cd
