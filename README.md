@@ -21,6 +21,6 @@ A collection of awesome things regarding the Reactor Ecosystem.
 #### Code Snippets
 - Creating a custom Button: https://gist.github.com/Pandapip1/b306f77187ce2f25e73be2560da4aa5f
 
-### Other Resources
+#### Other Resources
 - Unity Explorer: https://github.com/sinai-dev/UnityExplorer
 - Among Us Protocol: https://sus.wiki/
