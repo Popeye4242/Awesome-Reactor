@@ -6,6 +6,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 - [Tutorials](#tutorials)
 - [Mods using Reactor](#mods-using-rector)
 - [Code Snippets](#code-snippets)
+- [Other Resources](#other-resources)
 
 #### Reactor General Resources
 - Documentation: https://docs.reactor.gg/
