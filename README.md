@@ -2,7 +2,11 @@
 
 A collection of awesome things regarding the Reactor Ecosystem.
 
-[Reactor General Resources](#Reactor General Resources)
+- [Reactor General Resources](#reactor-general-resources)
+- [Tutorials](#tutorials)
+- [Mods using Reactor](#mods-using-rector)
+- [Code Snippets](#code-snippets)
+
 #### Reactor General Resources
 - Documentation: https://docs.reactor.gg/
 - Formatting of TextRenderer Text: https://wiki.weewoo.net/wiki/Text
