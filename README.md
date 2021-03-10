@@ -10,6 +10,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 
 #### Reactor General Resources
 - Documentation: https://docs.reactor.gg/
+- Example Plugin with custom rpc: https://github.com/NuclearPowered/Reactor/tree/master/Reactor.Example
 - Formatting of TextRenderer Text: https://wiki.weewoo.net/wiki/Text
 - Game Options Wrapper: https://github.com/DorCoMaNdO/Reactor-Essentials
 
