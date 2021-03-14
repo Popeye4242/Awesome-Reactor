@@ -24,6 +24,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 
 #### Code Snippets
 - Creating a custom Button: https://gist.github.com/Pandapip1/b306f77187ce2f25e73be2560da4aa5f
+- Check if anything is between two players: https://github.com/Popeye4242/Awesome-Reactor/blob/main/DiscordSnippets/AnythingBetweenPlayers.md
 
 #### Other Resources
 - Unity Explorer: https://github.com/sinai-dev/UnityExplorer
