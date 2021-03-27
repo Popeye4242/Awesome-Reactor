@@ -19,6 +19,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 - Create Asset Bundles https://github.com/Popeye4242/Awesome-Reactor/blob/main/DiscordSnippets/Creating%20Asset%20Bundles.md
 
 #### Mods using Reactor
+- Popeyes Roles Mod: https://github.com/Popeye4242/Popeyes-Roles-Mod
 - ExtraRoles Mod: https://github.com/NotHunter101/ExtraRolesAmongUs
 - More Colors: https://github.com/Snowad14/Mores-Colors/
 
