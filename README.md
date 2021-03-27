@@ -24,6 +24,7 @@ A collection of awesome things regarding the Reactor Ecosystem.
 - The Other Roles: https://github.com/Eisbison/TheOtherRoles
 - Town of Us: https://github.com/slushiegoose/Town-Of-Us
 - More Colors: https://github.com/Snowad14/Mores-Colors/
+- Sheriff Mod: https://github.com/Woodi-dev/Among-Us-Sheriff-Mod
 
 #### Code Snippets
 - Creating a custom Button: https://gist.github.com/Pandapip1/b306f77187ce2f25e73be2560da4aa5f
