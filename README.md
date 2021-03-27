@@ -20,7 +20,9 @@ A collection of awesome things regarding the Reactor Ecosystem.
 
 #### Mods using Reactor
 - Popeyes Roles Mod: https://github.com/Popeye4242/Popeyes-Roles-Mod
-- ExtraRoles Mod: https://github.com/NotHunter101/ExtraRolesAmongUs
+- ExtraRoles: https://github.com/NotHunter101/ExtraRolesAmongUs
+- The Other Roles: https://github.com/Eisbison/TheOtherRoles
+- Town of Us: https://github.com/slushiegoose/Town-Of-Us
 - More Colors: https://github.com/Snowad14/Mores-Colors/
 
 #### Code Snippets
